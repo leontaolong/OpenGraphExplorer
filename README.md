@@ -1,2 +1,2 @@
 # Open Graph Explorer
-This repo contains both server and client code of web application called OpenGraphExporer. The server is developed in `Golang` and the web client is created by `React.js`. Both the server and web client are deployed using docker.
+This repo contains both server and client code of web application called OpenGraphExporer. The server is developed in `Golang` and the web client is created by `React.js`. Both the server and web client are deployed to the cloud using docker. This webpage allows the user to search for a `url`. The server using HTML tokenization to capture the Open Graph Properties of the given site and send to the client.
